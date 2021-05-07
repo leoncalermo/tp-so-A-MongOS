@@ -1,0 +1,7 @@
+[INFO] 04:54:10:210 Servidor/(10523:10523): I-Mongo Store listo para recibir al cliente
+[INFO] 05:55:04:851 Servidor/(12309:12309): I-Mongo Store listo para recibir al cliente
+[INFO] 05:55:28:480 Servidor/(12309:12309): Se conecto un cliente!
+[ERROR] 05:57:59:814 Servidor/(12309:12309): el cliente se desconecto. Terminando servidor
+[INFO] 06:00:03:744 Servidor/(12379:12379): I-Mongo Store listo para recibir al cliente
+[INFO] 06:00:40:386 Servidor/(12379:12379): Se conecto un cliente!
+[ERROR] 06:01:45:364 Servidor/(12379:12379): el cliente se desconecto. Terminando servidor
