@@ -1,14 +1,15 @@
 /*
- * discordiador.c
+ * i-mongo-store.c
  *
  *  Created on: 7 may. 2021
  *      Author: utnso
  */
 
 
-#include "discordiador.h"
+#include "i_mongo_store.h"
 
 int main(void){
+
 	t_log* logger;
 	t_config* config;
 
@@ -21,8 +22,7 @@ int main(void){
 	return EXIT_SUCCESS;
 }
 
-
 t_log* iniciar_logger(void)
 {
-  return log_create("discordiador.log","discordiador", 1, LOG_LEVEL_INFO);
+  return log_create("i_mongo_store.log","i_mongo_store", 1, LOG_LEVEL_INFO);
 }
